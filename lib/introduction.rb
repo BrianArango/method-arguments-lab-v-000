@@ -1,3 +1,3 @@
-def say_hello_x_times(name)
-  puts "#{name} hello!"
+def introduction('Sam')
+  puts "Hello #{name}, how are you?"
 end
